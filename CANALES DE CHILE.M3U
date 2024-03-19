@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="720" tvg-name="TVL libertad" tvg-logo="https://i.postimg.cc/vHxmHJdN/TVL-logo-web.png", TVL canal Libertad ✪ | CL
+https://ed11ov.live.opencaster.com/dqqbctooisyw/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 ✪ | CL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1436" tvg-name="Apanines TV" tvg-logo="https://cdn.m3u.cl/logo/1436_Apanines_TV.png", Apanines TV ✪ | CL
